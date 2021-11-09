@@ -40,10 +40,10 @@ https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
 
 
 ``` 
-git clone https://github.com/pepesir/PEPE-SIR.git
+git clone https://github.com/Ameen-SER/TYCOON-V2
 ```
 ```
-cd PEPE-SIR
+cd TYCOON-V2
 ```
 ```
 npm start
@@ -84,10 +84,10 @@ pkg install wget
 pkg install imagemagick -y
 ```
 ```
-git clone https://github.com/pepesir/PEPE-SIR
+git clone https://github.com/Ameen-SER/TYCOON-V2
 ```
 ```
-cd PEPE-SIR
+cd TYCOON-V2
 ```
 ```
 npm install
