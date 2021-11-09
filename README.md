@@ -1,9 +1,9 @@
-#### NB : THERE ARE SLIGHT CHANGES IN THE DEPLOYING METHOD COMPARING WITH COMMON ASEENA BOT . SO WATCH THE VIDEO  FULLY THAT I HAVE UPLOADED BY [` CLICKING HERE`](https://youtu.be/vt9TbOuyhgI) OR ELSE MOST PROBABLY YOU WILL GET ERROR 
+
 
 
 
 <div align="center">
-<img src="xeon.jpg" alt="Pepe" width="170" />
+<img src="xeon.jpg" alt="Ameen" width="170" />
 
 ## AM33N S3R
 
