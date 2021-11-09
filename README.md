@@ -19,7 +19,7 @@
 
 
 ## Deploy
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/pepesir/PEPE-SIR/)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https:https://github.com/Ameen-SER/TYCOON-V2/)
 
 # Requirements
 * [Node.js](https://nodejs.org/en/)
