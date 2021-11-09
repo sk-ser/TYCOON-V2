@@ -13,7 +13,7 @@
 <a href="##"><img title="SELF-BOT" src="https://img.shields.io/static/v1?label=Language&message=English&color=blue"></a>
 </p>
 <p align="center">
- <a href="https://github.com/Ameen-SER"><img title="Author" src="https://img.shields.io/badge/Author-Ameen-blue.svg?style=for-the-badge&logo=github" /></a>  <a href="https://Wa.me/+917994909899?text=Hello%20P3P3%20Bro🌝...fen%20boi%20aan😌💝"><img title="Author" src="https://img.shields.io/badge/Owner-Pepe-blue.svg?style=for-the-badge&logo=whatsapp" /></a>
+ <a href="https://github.com/Ameen-SER"><img title="Author" src="https://img.shields.io/badge/Author-Ameen-blue.svg?style=for-the-badge&logo=github" /></a>  <a href="https://Wa.me/+917994909899?text=Hello%20P3P3%20Bro🌝...fen%20boi%20aan😌💝"><img title="Author" src="https://img.shields.io/badge/Owner-Ameen-blue.svg?style=for-the-badge&logo=whatsapp" /></a>
 <p align="center">
 <a href="https://chat.whatsapp.com/JyowQ3gErkn0sz1SwWQri2"><img title="Author" src="https://img.shields.io/badge/Watsapp-Group-blue.svg?style=for-the-badge&logo=whatsapp" /></a>">
 
@@ -108,15 +108,15 @@ scan qr code within 15seconds
 ## Connect With Me
 My Personal Chat👇
 <p align="center">
- <a href="https://wa.me/+917736622139"><img alt="WhatsApp Personal Chat" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=black"/></a>
+ <a href="https://wa.me/+917994909899"><img alt="WhatsApp Personal Chat" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=black"/></a>
 </p>
 
 My Whatsapp Group👇
 <p align="center">
- <a href="https://chat.whatsapp.com/ESkhpL7DdlE9AcaUs2b7g1"><img alt="WhatsApp Group" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=black"/></a>
+ <a href= "https://chat.whatsapp.com/JyowQ3gErkn0sz1SwWQri2"><img alt="WhatsApp Group" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=black"/></a>
 </p>
 
-* [`My Youtube Channel`](https://youtube.com/channel/UCVJ9029PQ-gJBtFQZZ3AJuA)
+
 
 ### ⚠ Warning ⚠
 
@@ -135,29 +135,7 @@ If you need help
 you can contact us 
 ```
 
-  <p align="center">
-  <a href="https://github.com/pepesir/PEPE-SIR">
-    
-<a href="https:https://github.com/pepesir?tab=followers">
-<img src="https://img.shields.io/github/repo-size/pepesir/PEPE-SIR?color=green&label=Repo%20total%20size&style=plastic">
-<p align="center">
-<a href="https://github.com/pepesir/followers"
-<img title="Followers" src="https://img.shields.io/github/followers/pepesir?color=blue&style=flat-square"></a>
-<a href="https://github.com/pepesir/PEPE-SIR/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/pepesir/PEPE-SIR?color=blue&style=flat-square"></a>
-<a href="https://github.com/pepesir/PEPE-SIR/network/members"><img title="Forks" src="https://img.shields.io/github/forks/pepesir/PEPE-SIR?color=blue&style=flat-square"></a>
-<a href="https://github.com/pepesir/PEPE-SIR/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/pepesir/PEPE-SIR?label=Watchers&color=blue&style=flat-square"></a>
-</p>
-
-<p align="center">
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pepesir&show_icons=true&theme=dark&locale=en" alt="pepesir" /></p>
-    
-  <div align="center">
-       
-  ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=pepesir&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)
-  </div>
- 
-
-  [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://chat.whatsapp.com/ESkhpL7DdlE9AcaUs2b7g1)
+)
 
 # Thanks To
 * [`Pepe`](https://github.com/pepesir)
