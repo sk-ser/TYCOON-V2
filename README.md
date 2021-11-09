@@ -33,15 +33,7 @@
 ```
 https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
 ```
-
-## `CHANGE SESSION`
-
-[`Click Here`](https://github.com/pepesir/PEPE-SIR/blob/master/session.json#L1)
-
-## `SETTING`
-
-- CHANGE OWNER NUMBER [Here](https://github.com/pepesir/PEPE-SIR/blob/master/index.js#L136)
-- CHANGE OWNER NAME [Here](https://github.com/pepesir/PEPE-SIR/blob/master/index.js#L138)
+)
 
 # Installation
 ## Clone Repo & Installation dependencies
