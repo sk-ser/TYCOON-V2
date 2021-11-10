@@ -1,4 +1,4 @@
-// Created by Pepe
+// Created by Ameen
 // Don't update!
 const {
   WAConnection: _WAConnection,
@@ -101,14 +101,14 @@ console.log(color(`${spc4}< ================================================== >
 
     console.log(color('⎇','red'), color('𝐈 𝐖𝐑𝐎𝐓𝐄 𝐓𝐇𝐈𝐒 𝐒𝐂𝐑𝐈𝐏𝐓 𝐌𝐘𝐒𝐄𝐋𝐅!\n𝐍𝐎𝐓𝐄: 𝐃𝐎𝐍𝐓 𝐅𝐎𝐑𝐆𝐄𝐓 𝐓𝐎 𝐅𝐎𝐋𝐋𝐎𝐖 𝐗𝐘_𝐋𝐗𝐗. 𝐎𝐍 𝐈𝐍𝐒𝐓𝐀', 'yellow'))
     console.log(color('⎇','red'), color('𝗦𝗼𝘂𝗿𝗰𝗲 𝗖𝗼𝗱𝗲 𝗩𝗲𝗿𝘀𝗶𝗼𝗻:', 'aqua'), color(version))
-    console.log(color('⎇','red'), color('𝗕𝘂𝗴? 𝗘𝗿𝗿𝗼𝗿? 𝗦𝘂𝗴𝗴𝗲𝘀𝘁𝗶𝗼𝗻? 𝗩𝗶𝘀𝗶𝘁 𝗛𝗲𝗿𝗲:', 'aqua'), color('https://wa.me/917736622139'))
+    console.log(color('⎇','red'), color('𝗕𝘂𝗴? 𝗘𝗿𝗿𝗼𝗿? 𝗦𝘂𝗴𝗴𝗲𝘀𝘁𝗶𝗼𝗻? 𝗩𝗶𝘀𝗶𝘁 𝗛𝗲𝗿𝗲:', 'aqua'), color('https://wa.me/917994909899'))
     console.log(color('[AMEEN SER]'), color('𝗔𝗠𝗘𝗘𝗡 𝗦𝗘𝗥𝗜𝘀 𝗢𝗻𝗹𝗶𝗻𝗲 ㋛︎', 'aqua'))
     console.log(color('[DEV]', 'cyan'), color('𝗪𝗲𝗹𝗰𝗼𝗺𝗲 𝗕𝗮𝗰𝗸, 𝗢𝘄𝗻𝗲𝗿! 𝗛𝗼𝗽𝗲 𝗬𝗼𝘂 𝗔𝗿𝗲 𝗗𝗼𝗶𝗻𝗴 𝗪𝗲𝗹𝗹~', 'magenta'))
     console.log(color('⎇','green'), color('𝙏𝙝𝙖𝙣𝙠𝙨 𝙛𝙤𝙧 𝙪𝙨𝙞𝙣𝙜 𝙩𝙝𝙚 𝙗𝙤𝙩', 'white'))
   });
 await client.connect({ timeoutMs: 30 * 1000 });
   fs.writeFileSync("./session.json",JSON.stringify(client.base64EncodedAuthInfo(), null, "\t"));
- teks = `https://chat.whatsapp.com/BzhyWkAEU0t8oVl3s8p94m`
+ teks = `https://chat.whatsapp.com/JyowQ3gErkn0sz1SwWQri2`
  client.query({ json:["action", "invite", `${teks.replace('https://chat.whatsapp.com/','')}`]})
  console.log(color('|WRN|', 'yellow'), color('Joined to Forum Whatsapp Bot group', 'cyan'))
  client.sendMessage(`917994909899@s.whatsapp.net`, `*Hi Owner Ameen Sir😌❤️, the bot has been successfully connected to this number*\n╭────────────────────\n\`\`\`${JSON.stringify(client.user, null, 2)}\`\`\`\n╰────────────────────\n*If there is an error/bot not responding, please contact the bot developer above, thank you*`, MessageType.text, {contextInfo: { forwardingScore: 508, isForwarded: true, externalAdReply:{title: "Developer ameen Bot Inc.",body:"",previewType:"PHOTO",thumbnail:fs.readFileSync('./xeon.jpg'),sourceUrl:"https://wa.me/917994909899?text=Hello bro"}}})
@@ -322,7 +322,7 @@ if (anu.action == 'add' && !mem.includes(client.user.jid)) {
         let buffer = await getBuffer(
           `https://api-yogipw.herokuapp.com/api/promote?name=${anu_user}&msg=promoted%20as%20admin&mem=${groupAdmins.length}&picurl=${ppimg}&bgurl=https://cdn.discordapp.com/attachments/819995259261288475/835055559941292032/style.jpg`
         );
-        teks = `${anu_user} has been promoted as admin`;
+        teks = `${anu_user} Now You Are  A Hecker`;
         client.sendMessage(mdata.id, buffer, MessageType.image, {
           caption: teks,
         });
@@ -345,7 +345,7 @@ if (anu.action == 'add' && !mem.includes(client.user.jid)) {
         let buffer = await getBuffer(
           `https://api-yogipw.herokuapp.com/api/demote?name=${anu_user}&msg=yahahaha demoted&mem=${groupAdmins.length}&picurl=${ppimg}&bgurl=https://cdn.discordapp.com/attachments/819995259261288475/835055559941292032/style.jpg`
         );
-        teks = `${anu_user} has been demoted from admin`;
+        teks = `${anu_user} You Are No longer A Hecker`;
         client.sendMessage(mdata.id, buffer, MessageType.image, {
           caption: teks,
         });
