@@ -2517,7 +2517,7 @@ case 'git':
 case 'script':
 		case 'sc':
 		case 'sourcecode':
-		xeon.sendMessage(from, { text: "╭─➤ *ᴀᴍᴇᴇʙ sɪʀ*\n│       ❑  *sᴄʀɪᴘᴛ*\n│❖   ɢɪᴛʜᴜʙ:\n│❖   https://github.com/ameensir/ameen-SIR\n│❖   ɪɴsᴛᴀ:\n│❖   https://instagram/xy_lxx_.\n𝙲𝙾𝙳𝙴𝙳 𝙱𝚈 𝙰𝙼𝙴𝙴𝙽          ", matchedText: 'nopee', description: "", title: "What are you doing?", jpegThumbnail: iye }, 'extendedTextMessage', { detectLinks: false, contextInfo: { forwardingScore: 508, isForwarded: true}, quoted: finv})
+		xeon.sendMessage(from, { text: "╭─➤*𝘼𝙈𝙀𝙀𝙉 𝙎𝙀𝙍*\n│       ❑  *sᴄʀɪᴘᴛ*\n│❖   ɢɪᴛʜᴜʙ:\n│❖   https://github.com/ameensir/ameen-SIR\n│❖   ɪɴsᴛᴀ:\n│❖   https://instagram/xy_lxx_.\n𝙲𝙾𝙳𝙴𝙳 𝙱𝚈 𝙰𝙼𝙴𝙴𝙽          ", matchedText: 'nopee', description: "", title: "What are you doing?", jpegThumbnail: iye }, 'extendedTextMessage', { detectLinks: false, contextInfo: { forwardingScore: 508, isForwarded: true}, quoted: finv})
 		break
       //------------------< Sticker Cmd >-------------------
       case "addcmd":
